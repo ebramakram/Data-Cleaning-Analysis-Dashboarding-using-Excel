@@ -25,6 +25,6 @@ This project demonstrates how Excel can be used to clean, analyze, and visualize
 ## Outcome
 The final output is a clean dataset, structured analysis using Pivot Tables, and a dynamic Excel dashboard that supports data-driven decision-making.
 
-## Business Value
+## Business Value (Key Insights from the Data)
 
 These insights help identify target customer segments (single, mid-income, 30–49 years, short commute, low car ownership) and support marketing, sales strategy, and dashboard storytelling.
